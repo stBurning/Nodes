@@ -1,0 +1,4 @@
+"D:\CLion 2019.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Konstantin\C++\Nodes
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Konstantin/C++/Nodes/cmake-build-debug
