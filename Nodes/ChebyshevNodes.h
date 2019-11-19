@@ -14,7 +14,7 @@ public:
 public:
     double operator[](int i) const override {
         //for go through all the nodes in loop, index must go through 1,..,N
-        return 0.5*(A + B) + 0.5*(B - A)*cos(double(2*i - 1)/(2*N)*M_PI);
+        return 0.5*(A + B) + 0.5*(B - A)*cos(double(2*i - 1)*M_PI/(2*N));
     }
 };
 

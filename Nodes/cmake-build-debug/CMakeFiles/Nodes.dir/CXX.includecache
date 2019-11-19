@@ -6,33 +6,37 @@
 
 #IncludeRegexTransform: 
 
-D:/Konstantin/C++/Nodes/ChebyshevNodes.h
+C:/Users/KSUstinov/CLionProjects/Nodes/ChebyshevNodes.h
 cmath
 -
 Nodes.h
-D:/Konstantin/C++/Nodes/Nodes.h
+C:/Users/KSUstinov/CLionProjects/Nodes/Nodes.h
 
-D:/Konstantin/C++/Nodes/ESNodes.h
+C:/Users/KSUstinov/CLionProjects/Nodes/ESNodes.h
 Nodes.h
-D:/Konstantin/C++/Nodes/Nodes.h
+C:/Users/KSUstinov/CLionProjects/Nodes/Nodes.h
 
-D:/Konstantin/C++/Nodes/Nodes.h
+C:/Users/KSUstinov/CLionProjects/Nodes/Nodes.h
 
-D:/Konstantin/C++/Nodes/RandomNodes.h
+C:/Users/KSUstinov/CLionProjects/Nodes/RandomNodes.h
 random
+-
+iostream
 -
 chrono
 -
 Nodes.h
-D:/Konstantin/C++/Nodes/Nodes.h
+C:/Users/KSUstinov/CLionProjects/Nodes/Nodes.h
 
-D:/Konstantin/C++/Nodes/main.cpp
+C:/Users/KSUstinov/CLionProjects/Nodes/main.cpp
 iostream
 -
-ChebyshevNodes.h
-D:/Konstantin/C++/Nodes/ChebyshevNodes.h
 ESNodes.h
-D:/Konstantin/C++/Nodes/ESNodes.h
+C:/Users/KSUstinov/CLionProjects/Nodes/ESNodes.h
+Nodes.h
+C:/Users/KSUstinov/CLionProjects/Nodes/Nodes.h
+ChebyshevNodes.h
+C:/Users/KSUstinov/CLionProjects/Nodes/ChebyshevNodes.h
 RandomNodes.h
-D:/Konstantin/C++/Nodes/RandomNodes.h
+C:/Users/KSUstinov/CLionProjects/Nodes/RandomNodes.h
 
